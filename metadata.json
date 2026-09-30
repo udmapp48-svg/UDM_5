@@ -1,0 +1,6 @@
+{
+  "name": "UDM Mobile Repair",
+  "description": "Professional phone repair shop management system with smart job tracking, price manager, OCR tag scanner, and repair analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
